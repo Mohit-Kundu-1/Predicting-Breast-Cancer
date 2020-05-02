@@ -4,8 +4,11 @@ Logistic Regression Model has been used to predict the chances of Breast Cancer
 Attribute Information:
 
 id
+
 diagnosis: M = malignant, B = benign
+
 Columns 3 to 32
+
 Ten real-valued features are computed for each cell nucleus:
 
 radius: distances from center to points on the perimeter
