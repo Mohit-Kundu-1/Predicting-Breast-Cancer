@@ -5,6 +5,7 @@ Logistic Regression Model has been used to predict the chances of Breast Cancer
 **About Dataset**
 
 Attribute Information:-
+
 id
 
 diagnosis: M = malignant, B = benign
