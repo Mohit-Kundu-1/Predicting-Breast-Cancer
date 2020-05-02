@@ -21,6 +21,7 @@ texture: standard deviation of gray-scale values
 perimeter
 
 area
+
 smoothness: local variation in radius lengths
 
 compactness: perimeter^2 / area - 1.0
