@@ -36,4 +36,4 @@ fractal dimension: "coastline approximation" - 1 The mean, standard error, and "
 
 For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 
-#### Any kind of changes or insights or improvements from you are highly appreciated and are welcomed
+#### Any kind of changes or insights or improvements from you are highly appreciated and are welcomed.
