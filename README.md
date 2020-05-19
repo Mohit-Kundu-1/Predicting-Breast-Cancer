@@ -1,4 +1,4 @@
-# Predicting-Breast-Cancer
+# Predicting-Breast-Cance
 
 Logistic Regression Model has been used to predict the chances of Breast Cancer. 
 
