@@ -10,6 +10,7 @@ Attribute Information:-
 
 Columns 3 to 32
 Ten real-valued features are computed for each cell nucleus:
+
 3. radius: distances from center to points on the perimeter
 4. texture: standard deviation of gray-scale values
 5. perimeter
