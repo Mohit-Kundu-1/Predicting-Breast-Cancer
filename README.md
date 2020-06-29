@@ -21,5 +21,3 @@ Attribute Information:-
 >10. concave points: number of concave portions of the contour
 >11. symmetry
 >12. fractal dimension: "coastline approximation" - 1 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
-
-#### Any kind of changes or insights or improvements from you are highly appreciated and are welcomed.
